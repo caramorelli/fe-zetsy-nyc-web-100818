@@ -20,7 +20,8 @@ p {
 .wrapper {
   width: 960px;
   margin: 0 auto;
-  background: #eee;
+  background: ##fff;
+  padding: 0 45px 20px;
 }
 
 img {
