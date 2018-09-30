@@ -10,6 +10,11 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
+p {
+  display: block;
+  -web
+}
+
 
 .wrapper {
   width: 960px;
@@ -73,13 +78,6 @@ section {
   margin-bottom: 20px;
 }
 
-
-
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 
 #logo {
   
