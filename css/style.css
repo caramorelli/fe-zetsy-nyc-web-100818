@@ -43,8 +43,8 @@ header a {
 }
 
 img {
-  max-width: 100%;
   border-color: green;
+  max-width: 100%;
 }
 
 .wrapper {
