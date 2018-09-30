@@ -18,3 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+#logo { /* select elements with id="logo" */
+  background: aqua;
+}
