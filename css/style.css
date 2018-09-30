@@ -34,7 +34,8 @@ h1 {
 }
 
 header a {
-  color: blue;
+  color: red;
+  text-decoration: none;
 }
 
 img {
