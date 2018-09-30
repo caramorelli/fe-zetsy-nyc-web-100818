@@ -33,6 +33,10 @@ h1 {
   border-bottom: 1px solid #ccc;
 }
 
+header a {
+  color: blue;
+}
+
 img {
   max-width: 100%;
 }
