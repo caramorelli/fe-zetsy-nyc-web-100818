@@ -60,9 +60,6 @@ img {
   font-family: 'Athelas', serif;
 }
 
-/*#logo h1 {*/
-/*  font-family: 'Athelas', cursive; */
-/*}*/
 
 footer {
   
@@ -88,7 +85,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  background: #fff;
+  background: clear;
   z-index: 1;
 }
 
